@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 - 🔭 Estou trabalhando em: Análise de Dados utilizando SQL + Data Studio
 - 🌱 Atualmente estou aprendendo a: Conecetar dados de diversas fontes no SQL
