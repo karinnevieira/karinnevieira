@@ -5,9 +5,16 @@
 - 💬 Pode me perguntar sobre: Análise de Dados
 - 😄 Pronomes: Ela/dela
 
-## 🛠️ Tecnologias
+## 🗣️ Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,sql)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Visualização & BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## 📬 Contato
 
