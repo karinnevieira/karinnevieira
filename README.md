@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**karinnevieira/karinnevieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando em: Análise de Dados utilizando SQL + Data Studio
+- 🌱 Atualmente estou aprendendo a: Conecetar dados de diversas fontes no SQL
+- 💬 Pode me perguntar sobre: Análise de Dados
+- 😄 Pronomes: Ela/dela
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,git,sql)](https://skillicons.dev)
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karinnednv/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karinnednv@gmail.com)
