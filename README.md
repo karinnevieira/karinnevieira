@@ -1,7 +1,9 @@
 ## Olá 👋
 
+Sou analista de dados com formação pela Laboratória e tenho mais de 10 anos de experiência em Engenharia, Ensino e Pesquisa. Atualmente busco traduzir as informações encontradas nos dados para tomar decisões de negócio.
+
 - 🔭 Estou trabalhando em: Análise de Dados utilizando SQL + Data Studio
-- 🌱 Atualmente estou aprendendo a: Conecetar dados de diversas fontes no SQL
+- 🌱 Estou aprendendo a: Conectar dados de diversas fontes no SQL
 - 💬 Pode me perguntar sobre: Análise de Dados
 - 😄 Pronomes: Ela/dela
 
